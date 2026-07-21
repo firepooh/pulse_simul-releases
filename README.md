@@ -19,6 +19,8 @@
 esptool --chip esp32s3 -p <PORT> write_flash 0x0 pulse_simul-esp32s3-vX.Y.Z-merged.bin
 ```
 
+각 릴리스에는 사용 문서 **`cmd.md`(콘솔 명령어)**, **`QUICK_START.md`(빠른 시작)** 도 함께 첨부된다.
+
 ## 📁 구성
 
 | 경로 | 내용 |
